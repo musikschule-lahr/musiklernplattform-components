@@ -6,7 +6,7 @@ import AlternatingListItem from './AlternatingListItem';
 import MyTypes from '../../types';
 
 /**
- * Alternating List with 3 fixed columns for Erna Mediathek
+ * Alternating List with 3 fixed columns for Mediathek
  */
 function AlternatingList({
   className,

@@ -18,7 +18,7 @@ const RecordFileIcon = styled(Icon)`
 `;
 
 /**
- * Recorded File component for Erna Audio Player.
+ * Recorded File component for Audio Player.
  */
 function RecordFile({
   className,
